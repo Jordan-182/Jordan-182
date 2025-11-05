@@ -7,6 +7,8 @@
 
 - 👨‍💻 Mon portfolio se trouve ici : [https://jordanpieton.fr/](https://jordanpieton.fr/)
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-182)](https://github.com/anuraghazr/github-readme-stats)
+
 <h3 align="left">Connectons-nous:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jordan-pieton-005946121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jordan-pieton-005946121/" height="30" width="40" /></a>
