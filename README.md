@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mon portfolio se trouve ici : [https://jordanpieton.fr/](https://jordanpieton.fr/)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-182)](https://github.com/anuraghazr/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-182&theme=github_dark&show_icons=true)](https://github.com/anuraghazr/github-readme-stats)
 
 <h3 align="left">Connectons-nous:</h3>
 <p align="left">
