@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur mon projet **Giftizy**
 
-- 🤝 Je suis à la recherche d'une alternance Concepteur Développeur d'Applications Devops **à partir de décembre 2025**
+- 🤝 Je suis à la recherche d'une alternance Concepteur Développeur d'Applications Devops **à partir de décembre 2025 sur la métropole Lilloise**
 
 - 👨‍💻 Mon portfolio se trouve ici : [https://jordanpieton.fr/](https://jordanpieton.fr/)
 
