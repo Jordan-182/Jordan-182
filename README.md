@@ -3,13 +3,13 @@
 
 - 🔭 Je travaille actuellement sur mon projet **Giftizy**
 
-- 🤝 Je suis à la recherche d'une alternance Concepteur Développeur d'Applications Devops **à partir de décembre 2025 sur la métropole Lilloise**
+- 🤝 Après un apprentissage autodidacte et une première formation Développeur Web et Web Mobile, je suis à la recherche d'une alternance Concepteur Développeur d'Applications Devops **à partir de décembre 2025 sur la métropole Lilloise**, dans le cadre d'une formation qui sera réalisée auprès de la Wild Code School (groupe Simplon)
 
 - 👨‍💻 Mon portfolio se trouve ici : [https://jordanpieton.fr/](https://jordanpieton.fr/)
 
 <h3 align="left">Connectons-nous:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jordan-pieton-005946121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jordan-pieton-005946121/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jordan-pieton-005946121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jordan-pieton-005946121/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
