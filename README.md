@@ -89,3 +89,8 @@ Participation à la conception d’un **dashboard interne** , refonte du **front
 ---
 
 <h3 align="center">💬 Toujours partant pour échanger autour du code, des projets ou d’un café virtuel ☕</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coffee%20%26%20Code-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+
