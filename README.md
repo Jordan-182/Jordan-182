@@ -61,7 +61,7 @@ Participation à la conception d’un **dashboard interne** , refonte du **front
 
 <p align="center">
   <img src="https://github-readme-stats-sooty-one-4gxnwpmww7.vercel.app/api?username=Jordan-182&show_icons=true&count_private=true&theme=gotham" height="165" />
-  <img src="https://github-readme-stats-sooty-one-4gxnwpmww7.vercel.app/api/top-langs/?username=Jordan-182&layout=compact&theme=gotham" height="165" />
+  <img src="https://github-readme-stats-sooty-one-4gxnwpmww7.vercel.app/api/top-langs/?username=Jordan-182&hide=html,css&layout=compact&theme=gotham" height="165" />
 </p>
 
 <p align="center">
