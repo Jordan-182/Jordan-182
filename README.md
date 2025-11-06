@@ -59,10 +59,6 @@ Participation à la conception d’un **dashboard interne** , refonte du **front
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jordan-182&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jordan-182&theme=gotham&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
