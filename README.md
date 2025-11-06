@@ -51,19 +51,25 @@ Participation à la conception d’un **dashboard interne** , refonte du **front
 
 ---
 
-### 📊 Mes statistiques GitHub
+### 📈 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jordan-182&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sooty-one-4gxnwpmww7.vercel.app/api?username=Jordan-182&show_icons=true&count_private=true&theme=city_lights" height="165" />
+  <img src="https://github-readme-stats-sooty-one-4gxnwpmww7.vercel.app/api/top-langs/?username=Jordan-182&layout=compact&theme=city_lights" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-182&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Jordan-182&theme=city_lights&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jordan-182&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jordan-182&theme=city_lights&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jordan-182&theme=city_lights&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
