@@ -5,6 +5,12 @@
   Passionné par la création, la résolution de problèmes et l’apprentissage continu.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always%20Learning-2962FF?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack%20Dev-009688?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 À propos de moi
