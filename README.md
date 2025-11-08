@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Jordan Fullstack Developer Banner" width="100%" />
+  <img src="./github-header-banner.png" alt="Jordan Fullstack Developer Banner" width="100%" />
 </p>
 
 <p align="center">
