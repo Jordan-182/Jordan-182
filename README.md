@@ -1,7 +1,8 @@
-<h1 align="center">👋 Hey, moi c’est Jordan</h1>
+<p align="center">
+  <img src="./banner.png" alt="Jordan Fullstack Developer Banner" width="100%" />
+</p>
 
 <p align="center">
-  <strong>Développeur Web Fullstack TypeScript</strong><br>
   Passionné par la création, la résolution de problèmes et l’apprentissage continu.
 </p>
 
