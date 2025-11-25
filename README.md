@@ -43,7 +43,7 @@ Aujourd’hui, je suis **développeur fullstack TypeScript**, spécialisé sur *
 #### 🎁​​ Giftizy — Projet solo
 Application web entièrement conçue, développée et déployée seul.
 Giftizy permet un partage interactif de listes de souhaits entre amis ainsi que la création et la gestion d'évènements.
-> Stack : Next.js 15 · TailwindCSS · PostgreSQL · Prisma · Zod · Better-Auth 
+> Stack : Next.js 15 · TailwindCSS · PostgreSQL · Prisma · Zod · Better-Auth
 > Fonctionnalités : création de wishlists, partage entre amis, réservations des souhaits des amis, création et gestion d'évènements
 
 #### 🎮 Wankul TCGP — Projet de fin de formation
