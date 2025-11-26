@@ -45,11 +45,13 @@ Application web entièrement conçue, développée et déployée seul.
 Giftizy permet un partage interactif de listes de souhaits entre amis ainsi que la création et la gestion d'évènements.
 > Stack : Next.js 15 · TailwindCSS · PostgreSQL · Prisma · Zod · Better-Auth
 > Fonctionnalités : création de wishlists, partage entre amis, réservations des souhaits des amis, création et gestion d'évènements
+> URL : <a href="https://giftizy.fr" target="_blank">https://giftizy.fr/</a>
 
 #### 🎮 Wankul TCGP — Projet de fin de formation
 Application web inspirée du jeu Pokémon TCGP : **collection, échanges et défis entre amis**.  
 > Stack : Next.js 15 · CSS Modules · MySQL · API REST  
-> Fonctionnalités : gestion des cartes, raretés, échanges, et système de défis  
+> Fonctionnalités : gestion des cartes, raretés, échanges, et système de défis
+> URL : <a href="https://wankulpocket.fr" target="_blank">https://wankulpocket.fr/</a>
 
 #### 🌐 Stage chez Num4 — Développeur Fullstack NextJS
 Participation à la conception d’un **dashboard interne** , refonte du **front-end** et résolution des bugs du player audio.  
