@@ -49,7 +49,7 @@ Giftizy permet un partage interactif de listes de souhaits entre amis ainsi que 
 > **URL :** https://giftizy.fr/
 
 
-#### 🎮 Wankul TCGP — Projet de fin de formation, compte plus de 320 utilisateurs
+#### 🎮 Wankul TCGP — Projet de fin de formation, compte plus de 380 utilisateurs
 Application web inspirée du jeu Pokémon TCGP : **collection, échanges et défis entre amis**.
 
 > **Stack :** Next.js 15 · CSS Modules · MySQL · API REST  
