@@ -29,7 +29,7 @@ Aujourd’hui, je suis **développeur fullstack TypeScript**, spécialisé sur *
 ### 🧠 Stack technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgresql,mysql,sqlite,prisma,sequelize,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,postgresql,mysql,sqlite,prisma,sequelize,figma,git,github,docker" />
 </p>
 
 **Langages & Frameworks :** TypeScript · JavaScript · React · Next.js · Node.js · Express  
