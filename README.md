@@ -44,7 +44,7 @@ Aujourd’hui, je suis **développeur fullstack TypeScript**, spécialisé sur *
 - **Développeur Web et Web Mobile :** Formation suivie auprèe de la Wild Code School, titre professionel obtenu.
 ---
 
-### 🎓 Exprience professionnelle
+### 💼 Exprience professionnelle
 
 #### 🌐 Alternance chez Kalysse - Concepteur Développeur d'Applications
 Participation à la conception, au développement et au déploiement chez nos clients d'une solution de casiers connectés gérés par une borne ainsi qu'une application de supervision du parc.
