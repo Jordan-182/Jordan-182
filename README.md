@@ -38,6 +38,25 @@ Aujourd’hui, je suis **développeur fullstack TypeScript**, spécialisé sur *
 
 ---
 
+### 🎓 Formation
+
+- **Concepteur Développeur d'Applications :** Formation en alternance en cours auprès de la Wild Code School / Simplon.
+- **Développeur Web et Web Mobile :** Formation suivie auprèe de la Wild Code School, titre professionel obtenu.
+---
+
+### 🎓 Exprience professionnelle
+
+#### 🌐 Alternance chez Kalysse - Concepteur Développeur d'Applications
+Participation à la conception, au développement et au déploiement chez nos clients d'une solution de casiers connectés gérés par une borne ainsi qu'une application de supervision du parc.
+
+> React & Express · TypeScript · Docker · Ubuntu
+
+#### 🌐 Stage chez Num4 — Développeur Fullstack NextJS
+Participation à la conception d’un **dashboard interne**, refonte du **front-end** et résolution de bugs du player audio.
+
+> Collaboration en équipe Agile · intégrations API · versionning GitHub  
+---
+
 ### 🎯 Projets marquants
 
 #### 🎁 Giftizy — Projet solo
@@ -55,20 +74,6 @@ Application web inspirée du jeu Pokémon TCGP : **collection, échanges et déf
 > **Stack :** Next.js 15 · CSS Modules · MySQL · API REST  
 > **Fonctionnalités :** gestion des cartes, raretés, échanges, et système de défis  
 > **URL :** https://wankulpocket.fr/
-
-
-#### 🌐 Stage chez Num4 — Développeur Fullstack NextJS
-Participation à la conception d’un **dashboard interne**, refonte du **front-end** et résolution de bugs du player audio.
-
-> Collaboration en équipe Agile · intégrations API · versionning GitHub  
-
----
-
-
-### 🧩 Ce que je prépare
-🎓 Admission à la **Wild Code School** en alternance pour la formation  
-**“Concepteur Développeur d’Applications et DevOps”**  
-🔎 En recherche d’une **entreprise d’accueil** pour continuer à progresser et contribuer à de vrais projets techniques.
 
 ---
 
